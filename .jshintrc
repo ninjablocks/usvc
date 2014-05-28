@@ -1,0 +1,7 @@
+{
+  "node": true,
+  "strict": true,
+  "unused": false,
+  "indent": 2,
+  "maxlen": 120
+}
