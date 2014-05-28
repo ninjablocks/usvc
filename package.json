@@ -3,11 +3,11 @@
   "dependencies": {
     "debug": "^0.8.1",
     "etc": "^0.4.0",
+    "flat": "^1.2.1",
     "jayson": "^1.1.1",
     "jsonwebtoken": "^0.4.0",
     "mysql": "^2.3.0",
     "then-redis": "^0.3.12",
-    "underscore": "^1.6.0",
     "when": "^3.2.2"
   }
 }
