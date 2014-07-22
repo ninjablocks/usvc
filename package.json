@@ -10,6 +10,7 @@
     "jsonwebtoken": "^0.4.0",
     "mysql": "^2.3.0",
     "svcs": "git+https://github.com/theojulienne/svcs.git",
+    "then-couchdb": "^0.4.4",
     "then-redis": "^0.3.12",
     "timing-middleware": "^2.0.0",
     "when": "^3.2.2"
