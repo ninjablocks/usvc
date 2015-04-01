@@ -1,7 +1,14 @@
 {
   "name": "usvc",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A node library for microservices.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninjablocks/usvc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ninjablocks/usvc/issues"
+  },
   "dependencies": {
     "amqplib": "^0.2.0",
     "body-parser": "^1.10.0",
