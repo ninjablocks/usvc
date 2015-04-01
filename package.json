@@ -9,6 +9,9 @@
   "bugs": {
     "url": "https://github.com/ninjablocks/usvc/issues"
   },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --recursive --reporter spec --timeout 3000"
+  },
   "dependencies": {
     "amqplib": "^0.2.0",
     "body-parser": "^1.10.0",
@@ -24,5 +27,9 @@
     "then-redis": "^0.3.12",
     "timing-middleware": "^2.0.0",
     "when": "^3.2.2"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.1"
   }
 }
