@@ -1,6 +1,6 @@
 {
   "name": "usvc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node library for microservices.",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
     "etc": "^0.4.0",
     "express": "^4.10.4",
     "flat": "^1.2.1",
-    "jayson": "^1.1.1",
+    "jayson": "1.1.1",
     "jsonwebtoken": "^4.2.2",
     "mysql": "^2.3.0",
     "svcs": "theojulienne/svcs",
